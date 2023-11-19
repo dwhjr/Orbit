@@ -1,5 +1,6 @@
 # Orbit
 ## Password Generator App
 ### Don Hoisager
-#### Republic Tech Svcs
-#### Mastodon: @donhojr@mastodon.social
+#### Regasioh Svcs
+##### Mastodon: [@donhojr@mastodon.social](https://mastodon.social/@donhojr)
+##### Mail: [Deuce](mailto:deuce@hoisagers.com)
