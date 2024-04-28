@@ -1,0 +1,14 @@
+# Must be unique in a given SonarQube instance
+sonar.projectKey=SO-Pswd
+
+# Displayed name in SonarQube UI
+sonar.projectName=SO-Pswd
+
+# Version of your project
+sonar.projectVersion=1.0
+
+# Path to source code (relative to this file)
+sonar.sources=. \
+
+# Encoding of the source code (optional)
+sonar.sourceEncoding=UTF-8
